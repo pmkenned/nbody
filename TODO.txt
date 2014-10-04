@@ -1,0 +1,4 @@
+* mouse camera orientation
+* separate renders per second from updates per second
+* subdividing models
+* symplectic integrator
